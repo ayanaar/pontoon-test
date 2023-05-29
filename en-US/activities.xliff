@@ -271,6 +271,10 @@ Web Compatibility, the ability for all Web content to run in all browsers, is im
   <target xml:lang="en-US"></target>
 </trans-unit>
 <trans-unit id="52">
+  <source xml:lang="en-US">cat</source>
+  <target xml:lang="en-US"></target>
+</trans-unit>
+<trans-unit id="55">
   <source xml:lang="en-US">[Find out more](/webcompat-sprint/).</source>
   <target xml:lang="en-US"></target>
 </trans-unit>
