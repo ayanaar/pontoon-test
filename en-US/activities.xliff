@@ -282,6 +282,10 @@ Web Compatibility, the ability for all Web content to run in all browsers, is im
   <source xml:lang="en-US">apple.</source>
   <target xml:lang="en-US"></target>
 </trans-unit>
+<trans-unit id="71">
+  <source xml:lang="en-US">toronto.</source>
+  <target xml:lang="en-US"></target>
+</trans-unit>
 <trans-unit id="68">
   <source xml:lang="en-US">lion.</source>
   <target xml:lang="en-US"></target>
