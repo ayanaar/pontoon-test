@@ -286,6 +286,10 @@ Web Compatibility, the ability for all Web content to run in all browsers, is im
   <source xml:lang="en-US">bird.</source>
   <target xml:lang="en-US"></target>
 </trans-unit>
+<trans-unit id="78">
+  <source xml:lang="en-US">candy.</source>
+  <target xml:lang="en-US"></target>
+</trans-unit>
 <trans-unit id="98">
   <source xml:lang="en-US">napkin.</source>
   <target xml:lang="en-US"></target>
