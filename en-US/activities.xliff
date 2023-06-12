@@ -302,6 +302,10 @@ Web Compatibility, the ability for all Web content to run in all browsers, is im
   <source xml:lang="en-US">tiger.</source>
   <target xml:lang="en-US"></target>
 </trans-unit>
+<trans-unit id="113">
+  <source xml:lang="en-US">gum.</source>
+  <target xml:lang="en-US"></target>
+</trans-unit>
 <trans-unit id="88">
   <source xml:lang="en-US">tea.</source>
   <target xml:lang="en-US"></target>
