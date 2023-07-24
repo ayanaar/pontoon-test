@@ -14,9 +14,9 @@
     "description": "Title of the click notification."
   },
   
-    "testTitle": {
-    "message": "Click notification",
-    "description": "Title of the click notification."
+  "testTitle": {
+    "message": "test",
+    "description": "test."
   },
   
   "notificationContent": {
