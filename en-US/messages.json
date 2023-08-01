@@ -14,11 +14,6 @@
     "description": "Title of the click notification."
   },
   
-  "testTitle": {
-    "message": "test",
-    "description": "test."
-  },
-  
   "notificationContent": {
     "message": "You clicked $URL$.",
     "description": "Tells the user which link they clicked.",
